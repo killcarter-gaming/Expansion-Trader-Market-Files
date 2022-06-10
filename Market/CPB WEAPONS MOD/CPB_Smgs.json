@@ -1,0 +1,48 @@
+{
+  "m_Version": 9,
+  "DisplayName": "CPB SMGS",
+  "Icon": "Gun",
+  "Color": "5ca337",
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "CPB_MP7A1_Black",
+      "MaxPriceThreshold": 40000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_MP7_Magazine"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "CPB_MP9_Black",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_MP9_Magazine"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "CPB_Roni_Black",
+      "MaxPriceThreshold": 35000,
+      "MinPriceThreshold": 17500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_Mag_32rnd_Roni"
+      ],
+      "Variants": []
+    }
+  ]
+}

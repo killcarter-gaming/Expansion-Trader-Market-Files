@@ -1,0 +1,87 @@
+{
+  "m_Version": 9,
+  "DisplayName": "LANDROVER",
+  "Icon": "Car",
+  "Color": "5ca337",
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "CrSk_Land_Rover_Defender_110",
+      "MaxPriceThreshold": 220000,
+      "MinPriceThreshold": 110000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 4,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "Defender110_dver_1_1",
+        "Defender110_dver_2_1",
+        "Defender110_dver_1_2",
+        "Defender110_dver_2_2",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "Defender110_koleso",
+        "Defender110_koleso",
+        "Defender110_koleso",
+        "Defender110_koleso",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": [
+        "CrSk_Land_Rover_Defender_110_Green",
+        "CrSk_Land_Rover_Defender_110_UN"
+      ]
+    },
+    {
+      "ClassName": "CrSk_Land_Rover_Defender_110_Green",
+      "MaxPriceThreshold": 220000,
+      "MinPriceThreshold": 110000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 4,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "Defender110_dver_1_1_Green",
+        "Defender110_dver_2_1_Green",
+        "Defender110_dver_1_2_Green",
+        "Defender110_dver_2_2_Green",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "Defender110_koleso",
+        "Defender110_koleso",
+        "Defender110_koleso",
+        "Defender110_koleso",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "CrSk_Land_Rover_Defender_110_UN",
+      "MaxPriceThreshold": 220000,
+      "MinPriceThreshold": 110000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 4,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "Defender110_dver_1_1_UN",
+        "Defender110_dver_2_1_UN",
+        "Defender110_dver_1_2_UN",
+        "Defender110_dver_2_2_UN",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "Defender110_koleso",
+        "Defender110_koleso",
+        "Defender110_koleso",
+        "Defender110_koleso",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    }
+  ]
+}

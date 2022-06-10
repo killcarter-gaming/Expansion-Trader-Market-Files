@@ -1,0 +1,153 @@
+{
+  "m_Version": 9,
+  "DisplayName": "CPB MARKSMEN RIFLES",
+  "Icon": "Gun",
+  "Color": "5ca337",
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "CPB_NOV_Black",
+      "MaxPriceThreshold": 110000,
+      "MinPriceThreshold": 55000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_NOV_20rnd_Magazine"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "CPB_M200_Black",
+      "MaxPriceThreshold": 140000,
+      "MinPriceThreshold": 70000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_M200_Magazine",
+        "HuntingOptic"
+      ],
+      "Variants": [
+        "CPB_M200_White",
+        "CPB_M200_PA"
+      ]
+    },
+    {
+      "ClassName": "CPB_M200_White",
+      "MaxPriceThreshold": 140000,
+      "MinPriceThreshold": 70000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_M200_Magazine",
+        "HuntingOptic"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "CPB_M200_PA",
+      "MaxPriceThreshold": 140000,
+      "MinPriceThreshold": 70000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_M200_Magazine",
+        "HuntingOptic"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "CPB_M300_GreenDig",
+      "MaxPriceThreshold": 180000,
+      "MinPriceThreshold": 90000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_M300_Magazine",
+        "HuntingOptic"
+      ],
+      "Variants": [
+        "CPB_M300_Black"
+      ]
+    },
+    {
+      "ClassName": "CPB_M300_Black",
+      "MaxPriceThreshold": 180000,
+      "MinPriceThreshold": 90000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_M300_Magazine",
+        "HuntingOptic"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "CPB_R700",
+      "MaxPriceThreshold": 225000,
+      "MinPriceThreshold": 112500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_R700_Magazine",
+        "HuntingOptic"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "CPB_AWM_Black",
+      "MaxPriceThreshold": 250000,
+      "MinPriceThreshold": 125000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_AWM_Magazine",
+        "HuntingOptic"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "CPB_AX50_Black",
+      "MaxPriceThreshold": 200000,
+      "MinPriceThreshold": 100000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_AX50_Magazine"
+      ],
+      "Variants": [
+        "CPB_AX50_Tan"
+      ]
+    },
+    {
+      "ClassName": "CPB_AX50_Tan",
+      "MaxPriceThreshold": 200000,
+      "MinPriceThreshold": 100000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_AX50_Magazine"
+      ],
+      "Variants": []
+    }
+  ]
+}

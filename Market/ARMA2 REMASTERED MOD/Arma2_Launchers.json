@@ -1,0 +1,22 @@
+{
+  "m_Version": 9,
+  "DisplayName": "ARMA2 LAUNCHERS",
+  "Icon": "Gun",
+  "Color": "5ca337",
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "A2M32",
+      "MaxPriceThreshold": 180000,
+      "MinPriceThreshold": 90000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "M32_Magazine"
+      ],
+      "Variants": []
+    }
+  ]
+}

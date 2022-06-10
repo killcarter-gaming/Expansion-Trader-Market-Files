@@ -1,0 +1,81 @@
+{
+  "m_Version": 9,
+  "DisplayName": "ARMA2 ASSAULT RIFLES",
+  "Icon": "Gun",
+  "Color": "5ca337",
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "A2M4SPR",
+      "MaxPriceThreshold": 150000,
+      "MinPriceThreshold": 75000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "A2M4SPR_Magazine"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "A2M16A4",
+      "MaxPriceThreshold": 100000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "A2G36_C",
+      "MaxPriceThreshold": 110000,
+      "MinPriceThreshold": 55000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "A2AK74S",
+      "MaxPriceThreshold": 140000,
+      "MinPriceThreshold": 70000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "A2mk17",
+      "MaxPriceThreshold": 170000,
+      "MinPriceThreshold": 85000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "A2mk17_mag"
+      ],
+      "Variants": [
+        "A2mk17_s"
+      ]
+    },
+    {
+      "ClassName": "A2AKSGOLD",
+      "MaxPriceThreshold": 220000,
+      "MinPriceThreshold": 110000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

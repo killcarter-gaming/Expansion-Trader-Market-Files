@@ -1,0 +1,118 @@
+{
+  "m_Version": 9,
+  "DisplayName": "ARMA2 MARKSMEN RIFLES",
+  "Icon": "Gun",
+  "Color": "5ca337",
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "A2M24_Green",
+      "MaxPriceThreshold": 250000,
+      "MinPriceThreshold": 125000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "A2M24_Magazine"
+      ],
+      "Variants": [
+        "A2M24_Desert"
+      ]
+    },
+    {
+      "ClassName": "A2FNFAL",
+      "MaxPriceThreshold": 180000,
+      "MinPriceThreshold": 90000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "A2FNFAL_Magazine"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "A2M14_DMR",
+      "MaxPriceThreshold": 210000,
+      "MinPriceThreshold": 105000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "DMRScope",
+        "A2M14_DMRMAG"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "A2WM110_black",
+      "MaxPriceThreshold": 300000,
+      "MinPriceThreshold": 150000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "A2WM110_mag"
+      ],
+      "Variants": [
+        "A2WM110_desert"
+      ]
+    },
+    {
+      "ClassName": "A2M40A3",
+      "MaxPriceThreshold": 260000,
+      "MinPriceThreshold": 130000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "A2M40A3_Magazine"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "A2AS50",
+      "MaxPriceThreshold": 340000,
+      "MinPriceThreshold": 170000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "A2AS50_Magazine"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "A2M107",
+      "MaxPriceThreshold": 310000,
+      "MinPriceThreshold": 155000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "A2M107_Magazine"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "A2KSVK",
+      "MaxPriceThreshold": 260000,
+      "MinPriceThreshold": 130000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "A2KSVK_Magazine"
+      ],
+      "Variants": []
+    }
+  ]
+}

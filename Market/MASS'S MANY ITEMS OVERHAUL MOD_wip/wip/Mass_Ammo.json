@@ -1,0 +1,86 @@
+{
+    "m_Version": 9,
+    "DisplayName": "MASS AMMO",
+    "Icon": "Gun Bullets",
+    "Color": "5ca337",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+			"ClassName": "ammo_338",
+			"MaxPriceThreshold": 40,
+			"MinPriceThreshold": 20,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+			"ClassName": "ammo_408chey",
+			"MaxPriceThreshold": 50,
+			"MinPriceThreshold": 25,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+			"ClassName": "ammobox_338",
+			"MaxPriceThreshold": 800,
+			"MinPriceThreshold": 400,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+			"ClassName": "ammobox_408chey",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+			"ClassName": "massammobox_556x45_10rnd",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 250,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+			"ClassName": "ammo_12gabb",
+			"MaxPriceThreshold": 100,
+			"MinPriceThreshold": 50,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+			"ClassName": "ammobox_12gabb",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 250,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 500,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

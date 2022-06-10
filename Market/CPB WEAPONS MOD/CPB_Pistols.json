@@ -1,0 +1,74 @@
+{
+  "m_Version": 9,
+  "DisplayName": "CPB PISTOLS",
+  "Icon": "Gun",
+  "Color": "5ca337",
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "CPB_Glock41_Black",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_Glock41_Magazine"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "CPB_PAM1911",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 7500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_PAM1911_Magazine"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "CPB_FN502_Black",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 12500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_FN502_Magazine"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "CPB_Deagle_Black",
+      "MaxPriceThreshold": 35000,
+      "MinPriceThreshold": 17500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_BigDeag_Magazine"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "CPB_Deagle_Gold",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_BigDeag_Magazine"
+      ],
+      "Variants": []
+    }
+  ]
+}

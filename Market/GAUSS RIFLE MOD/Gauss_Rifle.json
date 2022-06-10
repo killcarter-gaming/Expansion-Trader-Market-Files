@@ -1,0 +1,39 @@
+{
+  "m_Version": 9,
+  "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_RIFLES",
+  "Icon": "Deliver",
+  "Color": "",
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "ER7_Gauss",
+      "MaxPriceThreshold": 800000,
+      "MinPriceThreshold": 400000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 2,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "ER7_Scope",
+        "ER7_Gauss_Battery",
+        "ER7_Gauss_Magazine"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "ER7_Gauss_T5",
+      "MaxPriceThreshold": 900000,
+      "MinPriceThreshold": 450000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 2,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "ER7_Scope",
+        "ER7_Gauss_Battery",
+        "ER7_Gauss_Magazine"
+      ],
+      "Variants": []
+    }
+  ]
+}

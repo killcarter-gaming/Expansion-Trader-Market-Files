@@ -1,0 +1,286 @@
+{
+  "m_Version": 9,
+  "DisplayName": "CPB ASSAULT RIFLES",
+  "Icon": "Gun",
+  "Color": "5ca337",
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "CPB_SR25_Black",
+      "MaxPriceThreshold": 85000,
+      "MinPriceThreshold": 42500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_SR25_Magazine",
+        "CPB_SR25_Suppressor",
+        "ACOGOptic"
+      ],
+      "Variants": [
+        "CPB_SR25_Green",
+        "CPB_SR25_Tan"
+      ]
+    },
+    {
+      "ClassName": "CPB_SR25_Green",
+      "MaxPriceThreshold": 85000,
+      "MinPriceThreshold": 42500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_SR25_Magazine",
+        "CPB_SR25_Suppressor",
+        "ACOGOptic"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "CPB_SR25_Tan",
+      "MaxPriceThreshold": 85000,
+      "MinPriceThreshold": 42500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_SR25_Magazine",
+        "CPB_SR25_Suppressor",
+        "ACOGOptic"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "CPB_M447",
+      "MaxPriceThreshold": 130000,
+      "MinPriceThreshold": 65000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "Mag_AKM_30Rnd",
+        "ACOGOptic"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "CPB_M14",
+      "MaxPriceThreshold": 75000,
+      "MinPriceThreshold": 32500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_M14_Magazine",
+        "ACOGOptic"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "CPB_MK14_EBR_Black",
+      "MaxPriceThreshold": 100000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_M14_Magazine"
+      ],
+      "Variants": [
+        "CPB_MK14_EBR"
+      ]
+    },
+    {
+      "ClassName": "CPB_MK14_EBR",
+      "MaxPriceThreshold": 100000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_M14_Magazine"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "CPB_MDRS_Black",
+      "MaxPriceThreshold": 140000,
+      "MinPriceThreshold": 70000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_K624I_Black_RMR"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "CPB_KDMR_Camo",
+      "MaxPriceThreshold": 75000,
+      "MinPriceThreshold": 37500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_KDMR_Magazine",
+        "ACOGOptic"
+      ],
+      "Variants": [
+        "CPB_KDMR_Worn"
+      ]
+    },
+    {
+      "ClassName": "CPB_KDMR_Worn",
+      "MaxPriceThreshold": 75000,
+      "MinPriceThreshold": 37500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_KDMR_Magazine",
+        "ACOGOptic"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "CPB_SA58_Black",
+      "MaxPriceThreshold": 120000,
+      "MinPriceThreshold": 60000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_SA58_Magazine",
+        "CPB_VerticalGrip_Black",
+        "ACOGOptic",
+        "BSuppressor"
+      ],
+      "Variants": [
+        "CPB_SA58_Green"
+      ]
+    },
+    {
+      "ClassName": "CPB_SA58_Green",
+      "MaxPriceThreshold": 120000,
+      "MinPriceThreshold": 60000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_SA58_Magazine",
+        "CPB_VerticalGrip_Black",
+        "ACOGOptic",
+        "BSuppressor"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "CPB_HK416_Black",
+      "MaxPriceThreshold": 130000,
+      "MinPriceThreshold": 65000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "Polymer_60rnd_Magazine",
+        "ACOGOptic"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "CPB_HK417_Black",
+      "MaxPriceThreshold": 150000,
+      "MinPriceThreshold": 75000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_HK417_20rnd_Magazine",
+        "CPB_ELCAN"
+      ],
+      "Variants": [
+        "CPB_HK417_Tan"
+      ]
+    },
+    {
+      "ClassName": "CPB_HK417_Tan",
+      "MaxPriceThreshold": 150000,
+      "MinPriceThreshold": 75000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_HK417_20rnd_Magazine",
+        "CPB_ELCAN"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "CPB_AK12_PA",
+      "MaxPriceThreshold": 130000,
+      "MinPriceThreshold": 65000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "Mag_AK101_30Rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "CPB_ASH12",
+      "MaxPriceThreshold": 125000,
+      "MinPriceThreshold": 62500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_ASH12_Magazine_20rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "CPB_AUGA3",
+      "MaxPriceThreshold": 140000,
+      "MinPriceThreshold": 70000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "Mag_Aug_30Rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "CPB_Kivaari_Woodland",
+      "MaxPriceThreshold": 180000,
+      "MinPriceThreshold": 90000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_Kivaari_Mag_20rnd"
+      ],
+      "Variants": []
+    }
+  ]
+}

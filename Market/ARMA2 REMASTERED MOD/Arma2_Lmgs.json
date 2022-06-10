@@ -1,0 +1,74 @@
+{
+  "m_Version": 9,
+  "DisplayName": "ARMA2 LMGS",
+  "Icon": "Gun",
+  "Color": "5ca337",
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "A2M249",
+      "MaxPriceThreshold": 280000,
+      "MinPriceThreshold": 140000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "A2M249_Magazine"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "A2M60E4",
+      "MaxPriceThreshold": 280000,
+      "MinPriceThreshold": 140000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "A2M60E4_Magazine"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "A2M240",
+      "MaxPriceThreshold": 320000,
+      "MinPriceThreshold": 160000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "A2M240_Magazine"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "A2MK48",
+      "MaxPriceThreshold": 250000,
+      "MinPriceThreshold": 125000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "A2MK48_Magazine"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "A2PKM",
+      "MaxPriceThreshold": 280000,
+      "MinPriceThreshold": 140000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "A2PKM_Magazine"
+      ],
+      "Variants": []
+    }
+  ]
+}

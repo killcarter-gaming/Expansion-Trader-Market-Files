@@ -1,0 +1,36 @@
+{
+  "m_Version": 9,
+  "DisplayName": "DINGO",
+  "Icon": "Car",
+  "Color": "5ca337",
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "Dingo",
+      "MaxPriceThreshold": 280000,
+      "MinPriceThreshold": 140000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 4,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "DingoDoors_Driver",
+        "DingoDoors_CoDriver",
+        "DingoDoors_Cargo1",
+        "DingoDoors_Cargo2",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "DingoHood",
+        "DingoTrunk",
+        "DingoWheel",
+        "DingoWheel",
+        "DingoWheel",
+        "DingoWheel",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "m_Version": 9,
+  "DisplayName": "MVS VESTS",
+  "Icon": "Cloth",
+  "Color": "5ca337",
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "MVS_Combat_Vest_OD",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "MVS_Magazine_Pouch_OD",
+        "MVS_Admin_Pouch_OD",
+        "MVS_Utility_Pouch_OD",
+        "MVS_Medical_Pouch_OD",
+        "MVS_Canteen_OD"
+      ],
+      "Variants": [
+        "MVS_Combat_Vest_Tan",
+        "MVS_Combat_Vest_Black",
+        "MVS_Combat_Vest_Snow",
+        "MVS_Combat_Vest_ERDL",
+        "MVS_Combat_Vest_Multicam",
+        "MVS_Combat_Vest_Multicam_Tropic",
+        "MVS_Combat_Vest_Multicam_Black"
+      ]
+    },
+    {
+      "ClassName": "MVS_Combat_Vest_Tan",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "MVS_Magazine_Pouch_Tan",
+        "MVS_Admin_Pouch_Tan",
+        "MVS_Utility_Pouch_Tan",
+        "MVS_Medical_Pouch_Tan",
+        "MVS_Canteen_Tan"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "MVS_Combat_Vest_Black",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "MVS_Magazine_Pouch_Black",
+        "MVS_Admin_Pouch_Black",
+        "MVS_Utility_Pouch_Black",
+        "MVS_Medical_Pouch_Black",
+        "MVS_Canteen_Black"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "MVS_Combat_Vest_Snow",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "MVS_Magazine_Pouch_Snow",
+        "MVS_Admin_Pouch_Snow",
+        "MVS_Utility_Pouch_Snow",
+        "MVS_Medical_Pouch_Snow",
+        "MVS_Canteen_Snow"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "MVS_Combat_Vest_ERDL",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "MVS_Magazine_Pouch_ERDL",
+        "MVS_Admin_Pouch_ERDL",
+        "MVS_Utility_Pouch_ERDL",
+        "MVS_Medical_Pouch_ERDL",
+        "MVS_Canteen_ERDL"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "MVS_Combat_Vest_Multicam",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "MVS_Magazine_Pouch_Multicam",
+        "MVS_Admin_Pouch_Multicam",
+        "MVS_Utility_Pouch_Multicam",
+        "MVS_Medical_Pouch_Multicam",
+        "MVS_Canteen_Multicam"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "MVS_Combat_Vest_Multicam_Tropic",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "MVS_Magazine_Pouch_Multicam_Tropic",
+        "MVS_Admin_Pouch_Multicam_Tropic",
+        "MVS_Utility_Pouch_Multicam_Tropic",
+        "MVS_Medical_Pouch_Multicam_Tropic",
+        "MVS_Canteen_Multicam_Tropic"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "MVS_Combat_Vest_Multicam_Black",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "MVS_Magazine_Pouch_Multicam_Black",
+        "MVS_Admin_Pouch_Multicam_Black",
+        "MVS_Utility_Pouch_Multicam_Black",
+        "MVS_Medical_Pouch_Multicam_Black",
+        "MVS_Canteen_Multicam_Black"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "MVS_ChestRig_OD",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 7500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "MVS_Magazine_Pouch_OD",
+        "MVS_Admin_Pouch_OD",
+        "MVS_Utility_Pouch_OD",
+        "MVS_Medical_Pouch_OD",
+        "MVS_Canteen_OD"
+      ],
+      "Variants": [
+        "MVS_ChestRig_Tan",
+        "MVS_ChestRig_Black",
+        "MVS_ChestRig_Snow",
+        "MVS_ChestRig_ERDL",
+        "MVS_ChestRig_Multicam",
+        "MVS_ChestRig_Multicam_Tropic",
+        "MVS_ChestRig_Multicam_Black"
+      ]
+    },
+    {
+      "ClassName": "MVS_ChestRig_Tan",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 7500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "MVS_Magazine_Pouch_Tan",
+        "MVS_Admin_Pouch_Tan",
+        "MVS_Utility_Pouch_Tan",
+        "MVS_Medical_Pouch_Tan",
+        "MVS_Canteen_Tan"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "MVS_ChestRig_Black",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 7500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "MVS_Magazine_Pouch_Black",
+        "MVS_Admin_Pouch_Black",
+        "MVS_Utility_Pouch_Black",
+        "MVS_Medical_Pouch_Black",
+        "MVS_Canteen_Black"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "MVS_ChestRig_Snow",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 7500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "MVS_Magazine_Pouch_Snow",
+        "MVS_Admin_Pouch_Snow",
+        "MVS_Utility_Pouch_Snow",
+        "MVS_Medical_Pouch_Snow",
+        "MVS_Canteen_Snow"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "MVS_ChestRig_ERDL",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 7500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "MVS_Magazine_Pouch_ERDL",
+        "MVS_Admin_Pouch_ERDL",
+        "MVS_Utility_Pouch_ERDL",
+        "MVS_Medical_Pouch_ERDL",
+        "MVS_Canteen_ERDL"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "MVS_ChestRig_Multicam",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 7500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "MVS_Magazine_Pouch_Multicam",
+        "MVS_Admin_Pouch_Multicam",
+        "MVS_Utility_Pouch_Multicam",
+        "MVS_Medical_Pouch_Multicam",
+        "MVS_Canteen_Multicam"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "MVS_ChestRig_Multicam_Tropic",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 7500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "MVS_Magazine_Pouch_Multicam_Tropic",
+        "MVS_Admin_Pouch_Multicam_Tropic",
+        "MVS_Utility_Pouch_Multicam_Tropic",
+        "MVS_Medical_Pouch_Multicam_Tropic",
+        "MVS_Canteen_Multicam_Tropic"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "MVS_ChestRig_Multicam_Black",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 7500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "MVS_Magazine_Pouch_Multicam_Black",
+        "MVS_Admin_Pouch_Multicam_Black",
+        "MVS_Utility_Pouch_Multicam_Black",
+        "MVS_Medical_Pouch_Multicam_Black",
+        "MVS_Canteen_Multicam_Black"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "MVS_Combat_Vest_Heavy_OD",
+      "MaxPriceThreshold": 40000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "MVS_Heavy_Pouch_OD",
+        "MVS_Medical_Pouch_OD",
+        "MVS_Canteen_OD"
+      ],
+      "Variants": [
+        "MVS_Combat_Vest_Heavy_Tan",
+        "MVS_Combat_Vest_Heavy_Black",
+        "MVS_Combat_Vest_Heavy_Snow",
+        "MVS_Combat_Vest_Heavy_ERDL",
+        "MVS_Combat_Vest_Heavy_Multicam",
+        "MVS_Combat_Vest_Heavy_Multicam_Tropic",
+        "MVS_Combat_Vest_Heavy_Multicam_Black"
+      ]
+    },
+    {
+      "ClassName": "MVS_Combat_Vest_Heavy_Tan",
+      "MaxPriceThreshold": 40000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "MVS_Heavy_Pouch_Tan",
+        "MVS_Medical_Pouch_Tan",
+        "MVS_Canteen_Tan"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "MVS_Combat_Vest_Heavy_Black",
+      "MaxPriceThreshold": 40000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "MVS_Heavy_Pouch_Black",
+        "MVS_Medical_Pouch_Black",
+        "MVS_Canteen_Black"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "MVS_Combat_Vest_Heavy_Snow",
+      "MaxPriceThreshold": 40000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "MVS_Heavy_Pouch_Snow",
+        "MVS_Medical_Pouch_Snow",
+        "MVS_Canteen_Snow"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "MVS_Combat_Vest_Heavy_ERDL",
+      "MaxPriceThreshold": 40000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "MVS_Heavy_Pouch_ERDL",
+        "MVS_Medical_Pouch_ERDL",
+        "MVS_Canteen_ERDL"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "MVS_Combat_Vest_Heavy_Multicam",
+      "MaxPriceThreshold": 40000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "MVS_Heavy_Pouch_Multicam",
+        "MVS_Medical_Pouch_Multicam",
+        "MVS_Canteen_Multicam"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "MVS_Combat_Vest_Heavy_Multicam_Tropic",
+      "MaxPriceThreshold": 40000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "MVS_Heavy_Pouch_Multicam_Tropic",
+        "MVS_Medical_Pouch_Multicam_Tropic",
+        "MVS_Canteen_Multicam_Tropic"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "MVS_Combat_Vest_Heavy_Multicam_Black",
+      "MaxPriceThreshold": 40000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "MVS_Heavy_Pouch_Multicam_Black",
+        "MVS_Medical_Pouch_Multicam_Black",
+        "MVS_Canteen_Multicam_Black"
+      ],
+      "Variants": []
+    }
+  ]
+}

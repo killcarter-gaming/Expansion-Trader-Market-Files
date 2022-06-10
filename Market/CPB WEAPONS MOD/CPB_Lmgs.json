@@ -1,0 +1,64 @@
+{
+  "m_Version": 9,
+  "DisplayName": "CPB LMGS",
+  "Icon": "Gun",
+  "Color": "5ca337",
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "CPB_RPK16_Black",
+      "MaxPriceThreshold": 180000,
+      "MinPriceThreshold": 90000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_RPK16_DrumMagazine"
+      ],
+      "Variants": [
+        "CPB_RPK16_Green",
+        "CPB_RPK16_Tan"
+      ]
+    },
+    {
+      "ClassName": "CPB_RPK16_Green",
+      "MaxPriceThreshold": 180000,
+      "MinPriceThreshold": 90000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_RPK16_DrumMagazine"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "CPB_RPK16_Tan",
+      "MaxPriceThreshold": 180000,
+      "MinPriceThreshold": 90000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_RPK16_DrumMagazine"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "CPB_M134_Black",
+      "MaxPriceThreshold": 210000,
+      "MinPriceThreshold": 105000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "CPB_M134_Belt_200rnd"
+      ],
+      "Variants": []
+    }
+  ]
+}

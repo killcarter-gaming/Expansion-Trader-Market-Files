@@ -1,0 +1,48 @@
+{
+  "m_Version": 9,
+  "DisplayName": "ARMA2 SMGS",
+  "Icon": "Gun",
+  "Color": "5ca337",
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "A2HKM5_SD",
+      "MaxPriceThreshold": 90000,
+      "MinPriceThreshold": 45000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "A2HKM5_SD_Magazine"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "A2MicroUzi",
+      "MaxPriceThreshold": 40000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "A2UZI_Magazine"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "A2MicroUziSD",
+      "MaxPriceThreshold": 40000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [
+        "A2UZI_Magazine"
+      ],
+      "Variants": []
+    }
+  ]
+}
